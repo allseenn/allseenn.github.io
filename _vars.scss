@@ -1,0 +1,15 @@
+$textImportant: #F16D7F;
+$textPrice: #EF5B70;
+$textBig: #000000;
+$textMiddle: #6F6E6E;
+$white: #FFFFFF;
+$backGround: #F1E4E6;
+$textNorm: #222222;
+
+@mixin font($font-style, $font-weight, $font-size, $line-height, $color) {
+    font-style: $font-style;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    color: $color;
+}
