@@ -1110,7 +1110,7 @@ input[type=radio] {
     font-weight: 700;
     line-height: normal;
   }
-  .product:is(:has(.product__img-09)) {
+  .product:is(:has(.product__img-9)) {
     display: none;
   }
   .product-box__text {
