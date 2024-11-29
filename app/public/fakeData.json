@@ -1,0 +1,17 @@
+{
+    "temp": 25.5,
+    "raw_temp": 28.8,
+    "humidity": 55.2,
+    "raw_hum": 53.7,
+    "press": 735,
+    "gas": 89,
+    "ecCO2": 450,
+    "bVOC": 12,
+    "IAQ": 180,
+    "SIAQ": 150,
+    "IAQ_ACC": 3,
+    "status": 3,
+    "rad_dyn": 15,
+    "rad_stat": 12
+  }
+  

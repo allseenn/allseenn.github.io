@@ -1,0 +1,31 @@
+.metric-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 160px; 
+    padding: 16px;
+}
+
+
+.card-title {
+    font-weight: bold;
+    font-size: 0.875rem;
+    margin-bottom: 8px;
+}
+
+.card-value {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    flex-grow: 1; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-unit {
+    font-size: 0.75rem; 
+    color: #666; 
+}
+
