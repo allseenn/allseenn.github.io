@@ -6,7 +6,7 @@
     "press": 735,
     "gas": 89,
     "ecCO2": 450,
-    "bVOC": 12,
+    "bVOC": 5,
     "IAQ": 180,
     "SIAQ": 150,
     "IAQ_ACC": 3,
